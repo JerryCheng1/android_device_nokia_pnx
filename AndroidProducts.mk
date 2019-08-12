@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_PNX.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_PNX-eng \
+    lineage_PNX-user \
+    lineage_PNX-userdebug
