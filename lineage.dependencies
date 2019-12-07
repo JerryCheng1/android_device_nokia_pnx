@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_nokia_sdm710-common",
+    "target_path": "device/nokia/sdm710-common"
+  }
+]
